@@ -1,20 +1,44 @@
-## Hi there 👋
+# Olá, eu sou a Jéssica! 👋
 
-<!--
-**JessicaSTMatos/JessicaSTMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora web com paixão por transformar ideias em experiências digitais únicas. Atuo com foco em criar sites leves, bonitos e funcionais, voltados especialmente para pequenas empresas, profissionais autônomos e marcas pessoais que desejam fortalecer sua presença online de forma estratégica e acessível.
 
-Here are some ideas to get you started:
+Minha abordagem une design moderno, navegação intuitiva e código limpo, resultando em soluções que não apenas encantam visualmente, mas também entregam desempenho, responsividade e facilidade de uso em todos os dispositivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSTMatos&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSTMatos&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+Trabalho com tecnologias como:
+
+* HTML, CSS, JavaScript
+* WordPress, PHP, Bootstrap
+* JAVA, SQL
+
+Desenvolvo desde landing pages e sites institucionais até pequenos sistemas personalizados.
+
+Prezo pelo atendimento humanizado, escuta ativa e entrega de projetos alinhados aos objetivos de cada cliente. Se você busca um site que represente sua essência, seu negócio e fale diretamente com seu público, estou pronta para construir isso com você.
+
+---
+
+### 📚 Formação
+
+* Contabilidade e Gestão Financeira
+* Pós-graduações em:
+
+  * Auditoria e Controladoria
+  * Análise de Sistemas
+  * Business Intelligence
+  * Administração e Negócios
+  * Desenvolvimento Web Full Stack
+  * Desenvolvimento de Sistemas com JAVA
+
+---
+
+### 📊 Estatísticas GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaSTMatos\&layout=compact\&langs_count=8\&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaSTMatos\&show_icons=true\&theme=dracula)
+
+---
+
+### 📅 Vamos Conversar?
+
+Se quiser falar sobre um projeto, colaboração ou apenas trocar ideias, fique à vontade para me chamar!
+
