@@ -1,4 +1,6 @@
+<div style="background-color:#ffe6f0; padding: 10px; border-radius: 10px;">
 # Olá, eu sou a Jéssica! 🌸
+</div>
 
 Desenvolvedora web com paixão por transformar ideias em experiências digitais encantadoras. Meu foco é criar soluções criativas, funcionais e visualmente harmônicas, com um toque feminino e atencioso em cada detalhe.
 
