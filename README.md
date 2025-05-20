@@ -1,18 +1,15 @@
-Olá, eu sou a Jéssica! 🌸
+# Olá, eu sou a Jéssica! 🌸
 
 Desenvolvedora web com paixão por transformar ideias em experiências digitais encantadoras. Meu foco é criar soluções criativas, funcionais e visualmente harmônicas, com um toque feminino e atencioso em cada detalhe.
 
 Minha abordagem combina:
 
-🌟 Design moderno e encantador
+* 🌟 **Design moderno e encantador**
+* 🔎 **Navegação intuitiva**
+* 📝 **Código limpo e organizado**
+* 🚀 **Experiências agradáveis em qualquer dispositivo**
 
-🔎 Navegação intuitiva
-
-📝 Código limpo e organizado
-
-🚀 Experiências agradáveis em qualquer dispositivo
-
-📚 Trabalho com tecnologias como:
+### 📚 Trabalho com tecnologias como:
 
 HTML, CSS, JavaScript
 
@@ -24,7 +21,7 @@ Adoro ver um projeto ganhar forma com identidade, fluidez e elegância. Tudo com
 
 ---
 
-🎓 Formação Acadêmica
+### 🎓 Formação Acadêmica
 
 💼 Contabilidade e Gestão Financeira
 
@@ -44,7 +41,7 @@ Desenvolvimento de Sistemas com JAVA
 
 ---
 
-📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaSTMatos&show_icons=true&theme=dracula" />
@@ -53,6 +50,6 @@ Desenvolvimento de Sistemas com JAVA
 
 ---
 
-🌸 Vamos Conversar?
+### 🌸 Vamos Conversar?
 
 Se quiser trocar ideias, compartilhar experiências ou iniciar algo novo, estou sempre aberta ao diálogo e às conexões criativas! 💖
