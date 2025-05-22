@@ -15,7 +15,9 @@ HTML, CSS, JavaScript
 
 WordPress, PHP, Bootstrap
 
-JAVA, SQL
+JAVA, SQL, Python
+
+Análise de Dados com Pandas, Numpy, Matplotlib, Seaborn, SciPy, Scikit-learn e Plotly.
 
 Adoro ver um projeto ganhar forma com identidade, fluidez e elegância. Tudo com um toque humano, escuta ativa e muita dedicação.
 
