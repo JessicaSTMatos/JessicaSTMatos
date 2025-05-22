@@ -13,7 +13,7 @@ Minha abordagem combina:
 
 HTML, CSS, JavaScript
 
-WordPress, PHP, Bootstrap
+WordPress, PHP, Bootstrap, JQuery
 
 JAVA, SQL, Python
 
